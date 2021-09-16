@@ -17,3 +17,13 @@ The project operates as a [meritocracy](https://cyclonedx.org/about/governance/)
 [risk-based approach to standards development](https://cyclonedx.org/about/standardization-process/). 
 The project encourages [community participation](https://cyclonedx.org/about/participate/) in the development of the 
 [standard and supporting tools](https://github.com/CycloneDX).
+
+### Background
+Modern software is assembled using third-party and open source components. They are glued together in complex and 
+unique ways and integrated with original code to achieve the desired functionality. An accurate inventory of all 
+components enables organizations to identify risk, allows for greater transparency, and enables rapid impact analysis.
+
+CycloneDX was created for this purpose.
+
+Strategic direction and maintenance of the [specification](https://github.com/CycloneDX/specification) is managed by 
+the [CycloneDX Core Working Group](https://cyclonedx.org/about/working-groups/).
