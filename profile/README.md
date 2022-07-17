@@ -2,8 +2,14 @@
 
 ![](https://raw.githubusercontent.com/CycloneDX/cyclonedx.org/master/theme/assets/images/CycloneDX-Twitter-Card.png)
 
-OWASP CycloneDX is a lightweight Software Bill of Materials (SBOM) standard designed for use in application security 
-contexts and supply chain component analysis. 
+OWASP CycloneDX is a modern standard for the software supply chain. It is a lightweight yet full-featured specification for Bill of Materials including:
+* [Software Bill of Materials (SBOM)](https://cyclonedx.org/capabilities/sbom/)
+* [Software as a Service Bill of Materials (SaaSBOM)](https://cyclonedx.org/capabilities/saasbom/)
+* [Hardware Bill of Materials (HBOM)](https://cyclonedx.org/capabilities/mbom/)
+* [Operations Bill of Materials (OBOM)](https://cyclonedx.org/capabilities/obom/)
+* [Vulnerability Exploitability Exchange (VEX)](https://cyclonedx.org/capabilities/vex/)
+* Vulnerability Disclosure Report (VDR) as defined by [NIST SP 800-161](https://csrc.nist.gov/publications/detail/sp/800-161/rev-1/final).
+
 
 The CycloneDX project provides standards in XML, JSON, and Protocol Buffers, as well as a large 
 [collection of official and community supported tools](https://cyclonedx.org/tool-center/) that create or interoperate 
