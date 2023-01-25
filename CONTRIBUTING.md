@@ -53,6 +53,7 @@ Please follow these rules when writing a commit message:
 - Use the imperative mood in the subject line
 - Wrap the body at 72 characters
 - Use the body to explain what and why vs. how
-- Always include Signed-off-by: Author Name <authoremail@example.com> in every commit message. You can do this automatically by using the -s flag (i.e., git commit -s).
+- Always include `Signed-off-by: Author Name <authoremail@example.com>` in every commit message.  
+  You can do this automatically by using git's `-s` flag (i.e., `git commit -s`).
 
 [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) is a greate guide to writing good commit messages.
