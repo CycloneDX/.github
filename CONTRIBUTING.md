@@ -53,8 +53,8 @@ Please follow these rules when writing a commit message:
 - Use the imperative mood in the subject line
 - Wrap the body at 72 characters
 - Use the body to explain what and why vs. how
-- Commits must be signed off to indicate agreement with [Developer Certificate of Origin (DCO)](https://developercertificate.org/).
-  To sign-off include `Signed-off-by: Author Name <authoremail@example.com>` in every commit message.
+- Commits must be signed off to indicate agreement with [Developer Certificate of Origin (DCO)](https://developercertificate.org/).  
+  To sign-off include `Signed-off-by: Author Name <authoremail@example.com>` in every commit message.  
   You can do this automatically by using git's `-s` flag (i.e., `git commit -s`).
   
 
