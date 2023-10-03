@@ -56,5 +56,5 @@ Please follow these rules when writing a commit message:
 - Commits must be signed off to indicate agreement with [Developer Certificate of Origin (DCO)](https://developercertificate.org/).  
   To sign-off include `Signed-off-by: Author Name <authoremail@example.com>` in every commit message.  
   You can do this automatically by using git's `-s` flag (i.e., `git commit -s`).
-  
+
 [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) is a greate guide to writing good commit messages.
