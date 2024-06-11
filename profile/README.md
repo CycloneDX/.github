@@ -7,9 +7,13 @@ OWASP CycloneDX is a full-stack Bill of Materials (BOM) standard that provides a
 * Software Bill of Materials (SBOM)
 * Software-as-a-Service Bill of Materials (SaaSBOM)
 * Hardware Bill of Materials (HBOM)
+* Machine Learning Bill of Materials (ML-BOM)
+* Cryptography Bill of Materials (CBOM)
+* Manufacturing Bill of Materials (MBOM)
 * Operations Bill of Materials (OBOM)
 * Vulnerability Disclosure Reports (VDR)
 * Vulnerability Exploitability eXchange (VEX)
+* CycloneDX Attestations (CDXA)
 
 The CycloneDX project provides standards in XML, JSON, and Protocol Buffers, as well as a large
 [collection of official and community supported tools](https://cyclonedx.org/tool-center/)
